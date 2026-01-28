@@ -9,7 +9,7 @@
 The central nervous system for my Career Intelligence ecosystem—eliminating context loss, enabling cross-agent learning, and maintaining persistent state across all AI interactions.
 
 <p align="center">
-  <img src="images/architecture.svg" alt="Memory Brain Architecture" width="100%">
+  <img src="images/images/memory_brain_architecture.svg" alt="Memory Brain Architecture" width="100%">
 </p>
 
 ---
